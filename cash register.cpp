@@ -50,7 +50,7 @@ system("cls");
 				
 				case 2 :
 				cout<<"kopi susu"<<endl;
-				harga=10000;
+				harga=15000;
 				cout<<"masukan jumlah kopi yang di inginkan = ";
 				cin>>jumlah;
 				cout<<endl;
@@ -70,7 +70,7 @@ system("cls");
 				
 				case 3 :
 				cout<<"kopi bulan"<<endl;
-				harga=10000;
+				harga=20000;
 				cout<<"masukan jumlah kopi yang di inginkan = ";
 				cin>>jumlah;
 				cout<<endl;
@@ -90,7 +90,7 @@ system("cls");
 				
 				case 4 :
 				cout<<"kopi mars"<<endl;
-				harga=10000;
+				harga=25000;
 				cout<<"masukan jumlah kopi yang di inginkan = ";
 				cin>>jumlah;
 				cout<<endl;
@@ -110,7 +110,7 @@ system("cls");
 				
 				case 5 :
 				cout<<"kopi kristal"<<endl;
-				harga=10000;
+				harga=30000;
 				cout<<"masukan jumlah kopi yang di inginkan = ";
 				cin>>jumlah;
 				cout<<endl;
